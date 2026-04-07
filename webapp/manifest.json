@@ -83,13 +83,13 @@
       ],
       "targets": {
         "TargetView1": {
-          "id": "View4",
-          "name": "View4"
+          "id": "View3",
+          "name": "View3"
         }
       }
     },
     "rootView": {
-      "viewName": "demo.practice.practice.view.View4",
+      "viewName": "demo.practice.practice.view.View10",
       "type": "XML",
       "id": "App",
       "async": true
